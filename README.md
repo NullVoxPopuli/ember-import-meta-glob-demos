@@ -25,3 +25,11 @@ Setup:
 - remove `babel-plugin-transform-vite-meta-glob`
 - remove `ember-classic-import-meta-glob`
 - Vite supports `import.meta.glob` natively.
+
+
+---------
+
+The LICENSE for this repo is GPL v3., so if you take the source code, please open source your project as well (as required by the license).
+
+
+This does not extend to the config for each app, as configuring each app is documented by the supporting libraries/plugins/etc and use MIT licenses.
